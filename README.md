@@ -1,16 +1,22 @@
-### Hi there 👋
+# 🙋‍♂️ HI   SOY RUBEN GARUTTI
 
-<!--
-**rubengarutti/rubengarutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *DE ARGENTINA,CORDOBA , EDAD 34*
 
-Here are some ideas to get you started:
+### ✔ ETUDIOS
+* PRIMARIO COMPLETO
+* SECUNDARIO COMPL
+* CURSANDO BOOTCAMP DE JAVASCRIPT FULL-STACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+| COMANDOS         |DESCRIPSION                           |
+|----------------- | -----------------------------------  |
+|pwd               | muetra carpeta de usuari             |
+|date              |muestra la fecha y hora               |
+|cal               |muestra el calenario                  |
+|ls                | muestra lista de rchios en a carpeta |
+|cp                |copiar archivo                        |
+
+
+
